@@ -1,0 +1,536 @@
+2020-01-11 18:41:12,289 INFO  [Log] email is verified 
+2020-01-11 18:41:21,093 INFO  [Log] Password is verified 
+2020-01-11 18:41:29,604 INFO  [Log] FirstName is verified 
+2020-01-11 18:41:38,337 INFO  [Log] SurName is verified 
+ 2020-01-11 18:43:10,267 INFO  [Log] ******************************
+2020-01-11 18:43:10,267 INFO  [Log] ****************************** 
+2020-01-11 18:43:10,267 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 BEGINING OF TEST CASE Verify all the text fields in home pagetest;verify-all-the-text-fields-in-home-page;;2       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2020-01-11 18:43:10,267 INFO  [Log] ****************************** 
+2020-01-11 18:43:10,267 INFO  [Log] ****************************** 
+2020-01-11 18:43:12,426 INFO  [Log] email is verified 
+2020-01-11 18:43:13,681 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D- OF --Verify all the text fields in home pagetest;verify-all-the-text-fields-in-home-page;;2             XXXXXXXXXXXXXXXXXXXXXX 
+2020-01-11 18:43:13,682 INFO  [Log] X 
+2020-01-11 18:43:13,682 INFO  [Log] X 
+2020-01-11 18:43:13,682 INFO  [Log] X 
+2020-01-11 18:43:13,682 INFO  [Log] X 
+2020-01-11 18:43:18,878 INFO  [Log] ****************************** 
+2020-01-11 18:43:18,878 INFO  [Log] ****************************** 
+2020-01-11 18:43:18,878 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 BEGINING OF TEST CASE Verify all the text fields in home pagetest;verify-all-the-text-fields-in-home-page;;3       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2020-01-11 18:43:18,878 INFO  [Log] ****************************** 
+2020-01-11 18:43:18,878 INFO  [Log] ****************************** 
+2020-01-11 18:43:21,074 INFO  [Log] Password is verified 
+2020-01-11 18:43:22,321 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D- OF --Verify all the text fields in home pagetest;verify-all-the-text-fields-in-home-page;;3             XXXXXXXXXXXXXXXXXXXXXX 
+2020-01-11 18:43:22,321 INFO  [Log] X 
+2020-01-11 18:43:22,321 INFO  [Log] X 
+2020-01-11 18:43:22,321 INFO  [Log] X 
+2020-01-11 18:43:22,321 INFO  [Log] X 
+2020-01-11 18:43:27,480 INFO  [Log] ****************************** 
+2020-01-11 18:43:27,480 INFO  [Log] ****************************** 
+2020-01-11 18:43:27,480 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 BEGINING OF TEST CASE Verify all the text fields in home pagetest;verify-all-the-text-fields-in-home-page;;4       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2020-01-11 18:43:27,480 INFO  [Log] ****************************** 
+2020-01-11 18:43:27,480 INFO  [Log] ****************************** 
+2020-01-11 18:43:29,938 INFO  [Log] FirstName is verified 
+2020-01-11 18:43:31,110 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D- OF --Verify all the text fields in home pagetest;verify-all-the-text-fields-in-home-page;;4             XXXXXXXXXXXXXXXXXXXXXX 
+2020-01-11 18:43:31,114 INFO  [Log] X 
+2020-01-11 18:43:31,114 INFO  [Log] X 
+2020-01-11 18:43:31,114 INFO  [Log] X 
+2020-01-11 18:43:31,114 INFO  [Log] X 
+2020-01-11 18:43:36,270 INFO  [Log] ****************************** 
+2020-01-11 18:43:36,270 INFO  [Log] ****************************** 
+2020-01-11 18:43:36,270 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 BEGINING OF TEST CASE Verify all the text fields in home pagetest;verify-all-the-text-fields-in-home-page;;5       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2020-01-11 18:43:36,270 INFO  [Log] ****************************** 
+2020-01-11 18:43:36,270 INFO  [Log] ****************************** 
+2020-01-11 18:43:38,137 INFO  [Log] SurName is verified 
+2020-01-11 18:43:39,285 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D- OF --Verify all the text fields in home pagetest;verify-all-the-text-fields-in-home-page;;5             XXXXXXXXXXXXXXXXXXXXXX 
+2020-01-11 18:43:39,285 INFO  [Log] X 
+2020-01-11 18:43:39,285 INFO  [Log] X 
+2020-01-11 18:43:39,285 INFO  [Log] X 
+2020-01-11 18:43:39,286 INFO  [Log] X 
+2020-01-11 18:43:44,429 INFO  [Log] ****************************** 
+2020-01-11 18:43:44,429 INFO  [Log] ****************************** 
+2020-01-11 18:43:44,429 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 BEGINING OF TEST CASE Verify all the text fields in home pagetest;verify-all-the-text-fields-in-home-page;;6       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2020-01-11 18:43:44,429 INFO  [Log] ****************************** 
+2020-01-11 18:43:44,429 INFO  [Log] ****************************** 
+2020-01-11 18:43:48,398 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D- OF --Verify all the text fields in home pagetest;verify-all-the-text-fields-in-home-page;;6             XXXXXXXXXXXXXXXXXXXXXX 
+2020-01-11 18:43:48,398 INFO  [Log] X 
+2020-01-11 18:43:48,398 INFO  [Log] X 
+2020-01-11 18:43:48,398 INFO  [Log] X 
+2020-01-11 18:43:48,398 INFO  [Log] X 
+2020-01-11 18:43:53,606 INFO  [Log] ****************************** 
+2020-01-11 18:43:53,606 INFO  [Log] ****************************** 
+2020-01-11 18:43:53,606 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 BEGINING OF TEST CASE Verify all the text fields in home pagetest;verify-all-the-text-fields-in-home-page;;7       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2020-01-11 18:43:53,606 INFO  [Log] ****************************** 
+2020-01-11 18:43:53,606 INFO  [Log] ****************************** 
+2020-01-11 18:43:57,268 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D- OF --Verify all the text fields in home pagetest;verify-all-the-text-fields-in-home-page;;7             XXXXXXXXXXXXXXXXXXXXXX 
+2020-01-11 18:43:57,268 INFO  [Log] X 
+2020-01-11 18:43:57,268 INFO  [Log] X 
+2020-01-11 18:43:57,268 INFO  [Log] X 
+2020-01-11 18:43:57,268 INFO  [Log] X 
+2020-01-12 17:25:22,996 INFO  [Log] ****************************** 
+2020-01-12 17:25:22,996 INFO  [Log] ****************************** 
+2020-01-12 17:25:22,996 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 BEGINING OF TEST CASE Verify Title namefacebook-login-page;verify-title-name;;2       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2020-01-12 17:25:22,996 INFO  [Log] ****************************** 
+2020-01-12 17:25:22,996 INFO  [Log] ****************************** 
+2020-01-12 17:25:24,185 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D- OF --Verify Title namefacebook-login-page;verify-title-name;;2             XXXXXXXXXXXXXXXXXXXXXX 
+2020-01-12 17:25:24,185 INFO  [Log] X 
+2020-01-12 17:25:24,185 INFO  [Log] X 
+2020-01-12 17:25:24,185 INFO  [Log] X 
+2020-01-12 17:25:24,185 INFO  [Log] X 
+2020-01-12 17:25:29,437 INFO  [Log] ****************************** 
+2020-01-12 17:25:29,438 INFO  [Log] ****************************** 
+2020-01-12 17:25:29,438 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 BEGINING OF TEST CASE Verify Title namefacebook-login-page;verify-title-name;;3       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2020-01-12 17:25:29,438 INFO  [Log] ****************************** 
+2020-01-12 17:25:29,438 INFO  [Log] ****************************** 
+2020-01-12 17:25:30,481 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D- OF --Verify Title namefacebook-login-page;verify-title-name;;3             XXXXXXXXXXXXXXXXXXXXXX 
+2020-01-12 17:25:30,481 INFO  [Log] X 
+2020-01-12 17:25:30,481 INFO  [Log] X 
+2020-01-12 17:25:30,481 INFO  [Log] X 
+2020-01-12 17:25:30,481 INFO  [Log] X 
+2020-01-12 17:25:35,561 INFO  [Log] ****************************** 
+2020-01-12 17:25:35,561 INFO  [Log] ****************************** 
+2020-01-12 17:25:35,561 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 BEGINING OF TEST CASE Verify all the text fields in home pagefacebook-login-page;verify-all-the-text-fields-in-home-page;;2       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2020-01-12 17:25:35,561 INFO  [Log] ****************************** 
+2020-01-12 17:25:35,561 INFO  [Log] ****************************** 
+2020-01-12 17:25:38,801 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D- OF --Verify all the text fields in home pagefacebook-login-page;verify-all-the-text-fields-in-home-page;;2             XXXXXXXXXXXXXXXXXXXXXX 
+2020-01-12 17:25:38,801 INFO  [Log] X 
+2020-01-12 17:25:38,801 INFO  [Log] X 
+2020-01-12 17:25:38,801 INFO  [Log] X 
+2020-01-12 17:25:38,801 INFO  [Log] X 
+2020-01-12 17:25:43,887 INFO  [Log] ****************************** 
+2020-01-12 17:25:43,888 INFO  [Log] ****************************** 
+2020-01-12 17:25:43,888 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 BEGINING OF TEST CASE Verify all the text fields in home pagefacebook-login-page;verify-all-the-text-fields-in-home-page;;3       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2020-01-12 17:25:43,888 INFO  [Log] ****************************** 
+2020-01-12 17:25:43,888 INFO  [Log] ****************************** 
+2020-01-12 17:25:45,704 INFO  [Log] Password is verified 
+2020-01-12 17:25:46,839 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D- OF --Verify all the text fields in home pagefacebook-login-page;verify-all-the-text-fields-in-home-page;;3             XXXXXXXXXXXXXXXXXXXXXX 
+2020-01-12 17:25:46,839 INFO  [Log] X 
+2020-01-12 17:25:46,839 INFO  [Log] X 
+2020-01-12 17:25:46,839 INFO  [Log] X 
+2020-01-12 17:25:46,839 INFO  [Log] X 
+2020-01-12 17:25:52,090 INFO  [Log] ****************************** 
+2020-01-12 17:25:52,090 INFO  [Log] ****************************** 
+2020-01-12 17:25:52,090 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 BEGINING OF TEST CASE Verify all the text fields in home pagefacebook-login-page;verify-all-the-text-fields-in-home-page;;4       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2020-01-12 17:25:52,090 INFO  [Log] ****************************** 
+2020-01-12 17:25:52,090 INFO  [Log] ****************************** 
+2020-01-12 17:25:54,065 INFO  [Log] FirstName is verified 
+2020-01-12 17:25:55,315 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D- OF --Verify all the text fields in home pagefacebook-login-page;verify-all-the-text-fields-in-home-page;;4             XXXXXXXXXXXXXXXXXXXXXX 
+2020-01-12 17:25:55,315 INFO  [Log] X 
+2020-01-12 17:25:55,315 INFO  [Log] X 
+2020-01-12 17:25:55,315 INFO  [Log] X 
+2020-01-12 17:25:55,315 INFO  [Log] X 
+2020-01-12 17:26:00,493 INFO  [Log] ****************************** 
+2020-01-12 17:26:00,493 INFO  [Log] ****************************** 
+2020-01-12 17:26:00,493 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 BEGINING OF TEST CASE Verify all the text fields in home pagefacebook-login-page;verify-all-the-text-fields-in-home-page;;5       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2020-01-12 17:26:00,493 INFO  [Log] ****************************** 
+2020-01-12 17:26:00,493 INFO  [Log] ****************************** 
+2020-01-12 17:26:02,249 INFO  [Log] SurName is verified 
+2020-01-12 17:26:03,365 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D- OF --Verify all the text fields in home pagefacebook-login-page;verify-all-the-text-fields-in-home-page;;5             XXXXXXXXXXXXXXXXXXXXXX 
+2020-01-12 17:26:03,365 INFO  [Log] X 
+2020-01-12 17:26:03,365 INFO  [Log] X 
+2020-01-12 17:26:03,365 INFO  [Log] X 
+2020-01-12 17:26:03,365 INFO  [Log] X 
+2020-01-12 17:26:08,541 INFO  [Log] ****************************** 
+2020-01-12 17:26:08,541 INFO  [Log] ****************************** 
+2020-01-12 17:26:08,541 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 BEGINING OF TEST CASE Verify all the text fields in home pagefacebook-login-page;verify-all-the-text-fields-in-home-page;;6       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2020-01-12 17:26:08,541 INFO  [Log] ****************************** 
+2020-01-12 17:26:08,541 INFO  [Log] ****************************** 
+2020-01-12 17:26:11,917 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D- OF --Verify all the text fields in home pagefacebook-login-page;verify-all-the-text-fields-in-home-page;;6             XXXXXXXXXXXXXXXXXXXXXX 
+2020-01-12 17:26:11,917 INFO  [Log] X 
+2020-01-12 17:26:11,917 INFO  [Log] X 
+2020-01-12 17:26:11,917 INFO  [Log] X 
+2020-01-12 17:26:11,917 INFO  [Log] X 
+2020-01-12 17:26:17,078 INFO  [Log] ****************************** 
+2020-01-12 17:26:17,078 INFO  [Log] ****************************** 
+2020-01-12 17:26:17,078 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 BEGINING OF TEST CASE Verify all the text fields in home pagefacebook-login-page;verify-all-the-text-fields-in-home-page;;7       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2020-01-12 17:26:17,078 INFO  [Log] ****************************** 
+2020-01-12 17:26:17,078 INFO  [Log] ****************************** 
+2020-01-12 17:26:20,824 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D- OF --Verify all the text fields in home pagefacebook-login-page;verify-all-the-text-fields-in-home-page;;7             XXXXXXXXXXXXXXXXXXXXXX 
+2020-01-12 17:26:20,824 INFO  [Log] X 
+2020-01-12 17:26:20,824 INFO  [Log] X 
+2020-01-12 17:26:20,824 INFO  [Log] X 
+2020-01-12 17:26:20,824 INFO  [Log] X 
+2020-01-12 17:26:25,941 INFO  [Log] ****************************** 
+2020-01-12 17:26:25,941 INFO  [Log] ****************************** 
+2020-01-12 17:26:25,941 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 BEGINING OF TEST CASE Verify all the other fields in home pagefacebook-login-page;verify-all-the-other-fields-in-home-page;;2       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2020-01-12 17:26:25,941 INFO  [Log] ****************************** 
+2020-01-12 17:26:25,941 INFO  [Log] ****************************** 
+2020-01-12 17:26:29,123 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D- OF --Verify all the other fields in home pagefacebook-login-page;verify-all-the-other-fields-in-home-page;;2             XXXXXXXXXXXXXXXXXXXXXX 
+2020-01-12 17:26:29,123 INFO  [Log] X 
+2020-01-12 17:26:29,123 INFO  [Log] X 
+2020-01-12 17:26:29,123 INFO  [Log] X 
+2020-01-12 17:26:29,123 INFO  [Log] X 
+2020-01-12 17:26:34,305 INFO  [Log] ****************************** 
+2020-01-12 17:26:34,305 INFO  [Log] ****************************** 
+2020-01-12 17:26:34,305 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 BEGINING OF TEST CASE Verify all the other fields in home pagefacebook-login-page;verify-all-the-other-fields-in-home-page;;3       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2020-01-12 17:26:34,305 INFO  [Log] ****************************** 
+2020-01-12 17:26:34,305 INFO  [Log] ****************************** 
+2020-01-12 17:26:37,374 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D- OF --Verify all the other fields in home pagefacebook-login-page;verify-all-the-other-fields-in-home-page;;3             XXXXXXXXXXXXXXXXXXXXXX 
+2020-01-12 17:26:37,374 INFO  [Log] X 
+2020-01-12 17:26:37,374 INFO  [Log] X 
+2020-01-12 17:26:37,374 INFO  [Log] X 
+2020-01-12 17:26:37,374 INFO  [Log] X 
+2020-01-12 17:26:42,562 INFO  [Log] ****************************** 
+2020-01-12 17:26:42,562 INFO  [Log] ****************************** 
+2020-01-12 17:26:42,562 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 BEGINING OF TEST CASE Verify all the other fields in home pagefacebook-login-page;verify-all-the-other-fields-in-home-page;;4       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2020-01-12 17:26:42,562 INFO  [Log] ****************************** 
+2020-01-12 17:26:42,562 INFO  [Log] ****************************** 
+2020-01-12 17:26:45,473 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D- OF --Verify all the other fields in home pagefacebook-login-page;verify-all-the-other-fields-in-home-page;;4             XXXXXXXXXXXXXXXXXXXXXX 
+2020-01-12 17:26:45,474 INFO  [Log] X 
+2020-01-12 17:26:45,474 INFO  [Log] X 
+2020-01-12 17:26:45,474 INFO  [Log] X 
+2020-01-12 17:26:45,474 INFO  [Log] X 
+2020-01-12 17:26:50,726 INFO  [Log] ****************************** 
+2020-01-12 17:26:50,726 INFO  [Log] ****************************** 
+2020-01-12 17:26:50,726 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 BEGINING OF TEST CASE Verify all the other fields in home pagefacebook-login-page;verify-all-the-other-fields-in-home-page;;5       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2020-01-12 17:26:50,726 INFO  [Log] ****************************** 
+2020-01-12 17:26:50,726 INFO  [Log] ****************************** 
+2020-01-12 17:26:54,295 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D- OF --Verify all the other fields in home pagefacebook-login-page;verify-all-the-other-fields-in-home-page;;5             XXXXXXXXXXXXXXXXXXXXXX 
+2020-01-12 17:26:54,295 INFO  [Log] X 
+2020-01-12 17:26:54,295 INFO  [Log] X 
+2020-01-12 17:26:54,295 INFO  [Log] X 
+2020-01-12 17:26:54,295 INFO  [Log] X 
+2020-01-12 17:26:59,479 INFO  [Log] ****************************** 
+2020-01-12 17:26:59,479 INFO  [Log] ****************************** 
+2020-01-12 17:26:59,479 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 BEGINING OF TEST CASE Verify all the other fields in home pagefacebook-login-page;verify-all-the-other-fields-in-home-page;;6       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2020-01-12 17:26:59,479 INFO  [Log] ****************************** 
+2020-01-12 17:26:59,479 INFO  [Log] ****************************** 
+2020-01-12 17:27:02,248 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D- OF --Verify all the other fields in home pagefacebook-login-page;verify-all-the-other-fields-in-home-page;;6             XXXXXXXXXXXXXXXXXXXXXX 
+2020-01-12 17:27:02,248 INFO  [Log] X 
+2020-01-12 17:27:02,248 INFO  [Log] X 
+2020-01-12 17:27:02,248 INFO  [Log] X 
+2020-01-12 17:27:02,248 INFO  [Log] X 
+2020-01-12 17:27:07,365 INFO  [Log] ****************************** 
+2020-01-12 17:27:07,365 INFO  [Log] ****************************** 
+2020-01-12 17:27:07,365 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 BEGINING OF TEST CASE Verify all the other fields in home pagefacebook-login-page;verify-all-the-other-fields-in-home-page;;7       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2020-01-12 17:27:07,365 INFO  [Log] ****************************** 
+2020-01-12 17:27:07,365 INFO  [Log] ****************************** 
+2020-01-12 17:27:10,600 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D- OF --Verify all the other fields in home pagefacebook-login-page;verify-all-the-other-fields-in-home-page;;7             XXXXXXXXXXXXXXXXXXXXXX 
+2020-01-12 17:27:10,600 INFO  [Log] X 
+2020-01-12 17:27:10,600 INFO  [Log] X 
+2020-01-12 17:27:10,600 INFO  [Log] X 
+2020-01-12 17:27:10,600 INFO  [Log] X 
+2020-01-12 17:27:15,746 INFO  [Log] ****************************** 
+2020-01-12 17:27:15,746 INFO  [Log] ****************************** 
+2020-01-12 17:27:15,746 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 BEGINING OF TEST CASE Verify all the other fields in home pagefacebook-login-page;verify-all-the-other-fields-in-home-page;;8       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2020-01-12 17:27:15,746 INFO  [Log] ****************************** 
+2020-01-12 17:27:15,746 INFO  [Log] ****************************** 
+2020-01-12 17:27:18,569 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D- OF --Verify all the other fields in home pagefacebook-login-page;verify-all-the-other-fields-in-home-page;;8             XXXXXXXXXXXXXXXXXXXXXX 
+2020-01-12 17:27:18,569 INFO  [Log] X 
+2020-01-12 17:27:18,569 INFO  [Log] X 
+2020-01-12 17:27:18,569 INFO  [Log] X 
+2020-01-12 17:27:18,569 INFO  [Log] X 
+2020-01-12 17:27:23,732 INFO  [Log] ****************************** 
+2020-01-12 17:27:23,733 INFO  [Log] ****************************** 
+2020-01-12 17:27:23,733 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 BEGINING OF TEST CASE Verify all the other fields in home pagefacebook-login-page;verify-all-the-other-fields-in-home-page;;9       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2020-01-12 17:27:23,733 INFO  [Log] ****************************** 
+2020-01-12 17:27:23,733 INFO  [Log] ****************************** 
+2020-01-12 17:27:27,116 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D- OF --Verify all the other fields in home pagefacebook-login-page;verify-all-the-other-fields-in-home-page;;9             XXXXXXXXXXXXXXXXXXXXXX 
+2020-01-12 17:27:27,116 INFO  [Log] X 
+2020-01-12 17:27:27,116 INFO  [Log] X 
+2020-01-12 17:27:27,116 INFO  [Log] X 
+2020-01-12 17:27:27,116 INFO  [Log] X 
+2020-01-12 17:27:32,311 INFO  [Log] ****************************** 
+2020-01-12 17:27:32,311 INFO  [Log] ****************************** 
+2020-01-12 17:27:32,311 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 BEGINING OF TEST CASE Verify all the other fields in home pagefacebook-login-page;verify-all-the-other-fields-in-home-page;;10       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2020-01-12 17:27:32,311 INFO  [Log] ****************************** 
+2020-01-12 17:27:32,311 INFO  [Log] ****************************** 
+2020-01-12 17:27:35,636 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D- OF --Verify all the other fields in home pagefacebook-login-page;verify-all-the-other-fields-in-home-page;;10             XXXXXXXXXXXXXXXXXXXXXX 
+2020-01-12 17:27:35,636 INFO  [Log] X 
+2020-01-12 17:27:35,636 INFO  [Log] X 
+2020-01-12 17:27:35,636 INFO  [Log] X 
+2020-01-12 17:27:35,636 INFO  [Log] X 
+2020-01-12 17:27:40,812 INFO  [Log] ****************************** 
+2020-01-12 17:27:40,816 INFO  [Log] ****************************** 
+2020-01-12 17:27:40,816 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 BEGINING OF TEST CASE Verify all the other fields in home pagefacebook-login-page;verify-all-the-other-fields-in-home-page;;11       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2020-01-12 17:27:40,816 INFO  [Log] ****************************** 
+2020-01-12 17:27:40,816 INFO  [Log] ****************************** 
+2020-01-12 17:27:44,706 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D- OF --Verify all the other fields in home pagefacebook-login-page;verify-all-the-other-fields-in-home-page;;11             XXXXXXXXXXXXXXXXXXXXXX 
+2020-01-12 17:27:44,706 INFO  [Log] X 
+2020-01-12 17:27:44,706 INFO  [Log] X 
+2020-01-12 17:27:44,706 INFO  [Log] X 
+2020-01-12 17:27:44,706 INFO  [Log] X 
+2020-01-12 17:27:49,822 INFO  [Log] ****************************** 
+2020-01-12 17:27:49,822 INFO  [Log] ****************************** 
+2020-01-12 17:27:49,822 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 BEGINING OF TEST CASE Verify all the language linksfacebook-login-page;verify-all-the-language-links;;2       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2020-01-12 17:27:49,822 INFO  [Log] ****************************** 
+2020-01-12 17:27:49,822 INFO  [Log] ****************************** 
+2020-01-12 17:27:52,565 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D- OF --Verify all the language linksfacebook-login-page;verify-all-the-language-links;;2             XXXXXXXXXXXXXXXXXXXXXX 
+2020-01-12 17:27:52,565 INFO  [Log] X 
+2020-01-12 17:27:52,565 INFO  [Log] X 
+2020-01-12 17:27:52,565 INFO  [Log] X 
+2020-01-12 17:27:52,565 INFO  [Log] X 
+2020-01-12 17:27:57,739 INFO  [Log] ****************************** 
+2020-01-12 17:27:57,739 INFO  [Log] ****************************** 
+2020-01-12 17:27:57,739 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 BEGINING OF TEST CASE Verify all the language linksfacebook-login-page;verify-all-the-language-links;;3       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2020-01-12 17:27:57,739 INFO  [Log] ****************************** 
+2020-01-12 17:27:57,739 INFO  [Log] ****************************** 
+2020-01-12 17:28:01,178 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D- OF --Verify all the language linksfacebook-login-page;verify-all-the-language-links;;3             XXXXXXXXXXXXXXXXXXXXXX 
+2020-01-12 17:28:01,178 INFO  [Log] X 
+2020-01-12 17:28:01,178 INFO  [Log] X 
+2020-01-12 17:28:01,178 INFO  [Log] X 
+2020-01-12 17:28:01,179 INFO  [Log] X 
+2020-01-12 17:28:06,352 INFO  [Log] ****************************** 
+2020-01-12 17:28:06,352 INFO  [Log] ****************************** 
+2020-01-12 17:28:06,352 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 BEGINING OF TEST CASE Verify all the language linksfacebook-login-page;verify-all-the-language-links;;4       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2020-01-12 17:28:06,352 INFO  [Log] ****************************** 
+2020-01-12 17:28:06,352 INFO  [Log] ****************************** 
+2020-01-12 17:28:09,290 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D- OF --Verify all the language linksfacebook-login-page;verify-all-the-language-links;;4             XXXXXXXXXXXXXXXXXXXXXX 
+2020-01-12 17:28:09,290 INFO  [Log] X 
+2020-01-12 17:28:09,290 INFO  [Log] X 
+2020-01-12 17:28:09,290 INFO  [Log] X 
+2020-01-12 17:28:09,290 INFO  [Log] X 
+2020-01-12 17:28:14,455 INFO  [Log] ****************************** 
+2020-01-12 17:28:14,455 INFO  [Log] ****************************** 
+2020-01-12 17:28:14,455 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 BEGINING OF TEST CASE Verify all the language linksfacebook-login-page;verify-all-the-language-links;;5       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2020-01-12 17:28:14,455 INFO  [Log] ****************************** 
+2020-01-12 17:28:14,455 INFO  [Log] ****************************** 
+2020-01-12 17:28:17,457 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D- OF --Verify all the language linksfacebook-login-page;verify-all-the-language-links;;5             XXXXXXXXXXXXXXXXXXXXXX 
+2020-01-12 17:28:17,457 INFO  [Log] X 
+2020-01-12 17:28:17,457 INFO  [Log] X 
+2020-01-12 17:28:17,457 INFO  [Log] X 
+2020-01-12 17:28:17,457 INFO  [Log] X 
+2020-01-12 17:28:22,585 INFO  [Log] ****************************** 
+2020-01-12 17:28:22,585 INFO  [Log] ****************************** 
+2020-01-12 17:28:22,585 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 BEGINING OF TEST CASE Verify all the language linksfacebook-login-page;verify-all-the-language-links;;6       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2020-01-12 17:28:22,585 INFO  [Log] ****************************** 
+2020-01-12 17:28:22,585 INFO  [Log] ****************************** 
+2020-01-12 17:28:25,895 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D- OF --Verify all the language linksfacebook-login-page;verify-all-the-language-links;;6             XXXXXXXXXXXXXXXXXXXXXX 
+2020-01-12 17:28:25,895 INFO  [Log] X 
+2020-01-12 17:28:25,895 INFO  [Log] X 
+2020-01-12 17:28:25,895 INFO  [Log] X 
+2020-01-12 17:28:25,895 INFO  [Log] X 
+2020-01-12 17:28:31,079 INFO  [Log] ****************************** 
+2020-01-12 17:28:31,079 INFO  [Log] ****************************** 
+2020-01-12 17:28:31,079 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 BEGINING OF TEST CASE Verify all the language linksfacebook-login-page;verify-all-the-language-links;;7       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2020-01-12 17:28:31,079 INFO  [Log] ****************************** 
+2020-01-12 17:28:31,079 INFO  [Log] ****************************** 
+2020-01-12 17:28:33,889 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D- OF --Verify all the language linksfacebook-login-page;verify-all-the-language-links;;7             XXXXXXXXXXXXXXXXXXXXXX 
+2020-01-12 17:28:33,889 INFO  [Log] X 
+2020-01-12 17:28:33,889 INFO  [Log] X 
+2020-01-12 17:28:33,889 INFO  [Log] X 
+2020-01-12 17:28:33,889 INFO  [Log] X 
+2020-01-12 17:28:39,072 INFO  [Log] ****************************** 
+2020-01-12 17:28:39,072 INFO  [Log] ****************************** 
+2020-01-12 17:28:39,072 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 BEGINING OF TEST CASE Verify all the language linksfacebook-login-page;verify-all-the-language-links;;8       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2020-01-12 17:28:39,072 INFO  [Log] ****************************** 
+2020-01-12 17:28:39,072 INFO  [Log] ****************************** 
+2020-01-12 17:28:42,149 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D- OF --Verify all the language linksfacebook-login-page;verify-all-the-language-links;;8             XXXXXXXXXXXXXXXXXXXXXX 
+2020-01-12 17:28:42,149 INFO  [Log] X 
+2020-01-12 17:28:42,149 INFO  [Log] X 
+2020-01-12 17:28:42,149 INFO  [Log] X 
+2020-01-12 17:28:42,149 INFO  [Log] X 
+2020-01-12 17:28:47,314 INFO  [Log] ****************************** 
+2020-01-12 17:28:47,314 INFO  [Log] ****************************** 
+2020-01-12 17:28:47,314 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 BEGINING OF TEST CASE Verify all the language linksfacebook-login-page;verify-all-the-language-links;;9       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2020-01-12 17:28:47,314 INFO  [Log] ****************************** 
+2020-01-12 17:28:47,314 INFO  [Log] ****************************** 
+2020-01-12 17:28:50,965 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D- OF --Verify all the language linksfacebook-login-page;verify-all-the-language-links;;9             XXXXXXXXXXXXXXXXXXXXXX 
+2020-01-12 17:28:50,965 INFO  [Log] X 
+2020-01-12 17:28:50,965 INFO  [Log] X 
+2020-01-12 17:28:50,965 INFO  [Log] X 
+2020-01-12 17:28:50,965 INFO  [Log] X 
+2020-01-12 17:28:56,089 INFO  [Log] ****************************** 
+2020-01-12 17:28:56,089 INFO  [Log] ****************************** 
+2020-01-12 17:28:56,089 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 BEGINING OF TEST CASE Verify all other linksfacebook-login-page;verify-all-other-links;;2       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2020-01-12 17:28:56,089 INFO  [Log] ****************************** 
+2020-01-12 17:28:56,089 INFO  [Log] ****************************** 
+2020-01-12 17:28:59,450 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D- OF --Verify all other linksfacebook-login-page;verify-all-other-links;;2             XXXXXXXXXXXXXXXXXXXXXX 
+2020-01-12 17:28:59,450 INFO  [Log] X 
+2020-01-12 17:28:59,450 INFO  [Log] X 
+2020-01-12 17:28:59,451 INFO  [Log] X 
+2020-01-12 17:28:59,451 INFO  [Log] X 
+2020-01-12 17:29:04,787 INFO  [Log] ****************************** 
+2020-01-12 17:29:04,787 INFO  [Log] ****************************** 
+2020-01-12 17:29:04,787 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 BEGINING OF TEST CASE Verify all other linksfacebook-login-page;verify-all-other-links;;3       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2020-01-12 17:29:04,787 INFO  [Log] ****************************** 
+2020-01-12 17:29:04,787 INFO  [Log] ****************************** 
+2020-01-12 17:29:08,096 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D- OF --Verify all other linksfacebook-login-page;verify-all-other-links;;3             XXXXXXXXXXXXXXXXXXXXXX 
+2020-01-12 17:29:08,097 INFO  [Log] X 
+2020-01-12 17:29:08,097 INFO  [Log] X 
+2020-01-12 17:29:08,097 INFO  [Log] X 
+2020-01-12 17:29:08,097 INFO  [Log] X 
+2020-01-12 17:29:13,265 INFO  [Log] ****************************** 
+2020-01-12 17:29:13,265 INFO  [Log] ****************************** 
+2020-01-12 17:29:13,265 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 BEGINING OF TEST CASE Verify all other linksfacebook-login-page;verify-all-other-links;;4       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2020-01-12 17:29:13,265 INFO  [Log] ****************************** 
+2020-01-12 17:29:13,265 INFO  [Log] ****************************** 
+2020-01-12 17:29:16,107 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D- OF --Verify all other linksfacebook-login-page;verify-all-other-links;;4             XXXXXXXXXXXXXXXXXXXXXX 
+2020-01-12 17:29:16,107 INFO  [Log] X 
+2020-01-12 17:29:16,107 INFO  [Log] X 
+2020-01-12 17:29:16,107 INFO  [Log] X 
+2020-01-12 17:29:16,107 INFO  [Log] X 
+2020-01-12 17:29:21,263 INFO  [Log] ****************************** 
+2020-01-12 17:29:21,263 INFO  [Log] ****************************** 
+2020-01-12 17:29:21,263 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 BEGINING OF TEST CASE Verify all other linksfacebook-login-page;verify-all-other-links;;5       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2020-01-12 17:29:21,263 INFO  [Log] ****************************** 
+2020-01-12 17:29:21,263 INFO  [Log] ****************************** 
+2020-01-12 17:29:24,367 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D- OF --Verify all other linksfacebook-login-page;verify-all-other-links;;5             XXXXXXXXXXXXXXXXXXXXXX 
+2020-01-12 17:29:24,367 INFO  [Log] X 
+2020-01-12 17:29:24,367 INFO  [Log] X 
+2020-01-12 17:29:24,367 INFO  [Log] X 
+2020-01-12 17:29:24,367 INFO  [Log] X 
+2020-01-12 17:29:29,562 INFO  [Log] ****************************** 
+2020-01-12 17:29:29,562 INFO  [Log] ****************************** 
+2020-01-12 17:29:29,562 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 BEGINING OF TEST CASE Verify all other linksfacebook-login-page;verify-all-other-links;;6       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2020-01-12 17:29:29,562 INFO  [Log] ****************************** 
+2020-01-12 17:29:29,562 INFO  [Log] ****************************** 
+2020-01-12 17:29:38,767 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D- OF --Verify all other linksfacebook-login-page;verify-all-other-links;;6             XXXXXXXXXXXXXXXXXXXXXX 
+2020-01-12 17:29:38,767 INFO  [Log] X 
+2020-01-12 17:29:38,767 INFO  [Log] X 
+2020-01-12 17:29:38,767 INFO  [Log] X 
+2020-01-12 17:29:38,767 INFO  [Log] X 
+2020-01-12 17:29:43,912 INFO  [Log] ****************************** 
+2020-01-12 17:29:43,912 INFO  [Log] ****************************** 
+2020-01-12 17:29:43,912 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 BEGINING OF TEST CASE Verify all other linksfacebook-login-page;verify-all-other-links;;7       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2020-01-12 17:29:43,912 INFO  [Log] ****************************** 
+2020-01-12 17:29:43,912 INFO  [Log] ****************************** 
+2020-01-12 17:29:47,004 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D- OF --Verify all other linksfacebook-login-page;verify-all-other-links;;7             XXXXXXXXXXXXXXXXXXXXXX 
+2020-01-12 17:29:47,004 INFO  [Log] X 
+2020-01-12 17:29:47,004 INFO  [Log] X 
+2020-01-12 17:29:47,005 INFO  [Log] X 
+2020-01-12 17:29:47,005 INFO  [Log] X 
+2020-01-12 17:29:52,179 INFO  [Log] ****************************** 
+2020-01-12 17:29:52,179 INFO  [Log] ****************************** 
+2020-01-12 17:29:52,179 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 BEGINING OF TEST CASE Verify all other linksfacebook-login-page;verify-all-other-links;;8       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2020-01-12 17:29:52,179 INFO  [Log] ****************************** 
+2020-01-12 17:29:52,179 INFO  [Log] ****************************** 
+2020-01-12 17:29:55,066 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D- OF --Verify all other linksfacebook-login-page;verify-all-other-links;;8             XXXXXXXXXXXXXXXXXXXXXX 
+2020-01-12 17:29:55,066 INFO  [Log] X 
+2020-01-12 17:29:55,066 INFO  [Log] X 
+2020-01-12 17:29:55,066 INFO  [Log] X 
+2020-01-12 17:29:55,066 INFO  [Log] X 
+2020-01-12 17:30:00,204 INFO  [Log] ****************************** 
+2020-01-12 17:30:00,204 INFO  [Log] ****************************** 
+2020-01-12 17:30:00,204 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 BEGINING OF TEST CASE Verify all other linksfacebook-login-page;verify-all-other-links;;9       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2020-01-12 17:30:00,204 INFO  [Log] ****************************** 
+2020-01-12 17:30:00,204 INFO  [Log] ****************************** 
+2020-01-12 17:30:03,698 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D- OF --Verify all other linksfacebook-login-page;verify-all-other-links;;9             XXXXXXXXXXXXXXXXXXXXXX 
+2020-01-12 17:30:03,698 INFO  [Log] X 
+2020-01-12 17:30:03,698 INFO  [Log] X 
+2020-01-12 17:30:03,698 INFO  [Log] X 
+2020-01-12 17:30:03,699 INFO  [Log] X 
+2020-01-12 17:30:08,853 INFO  [Log] ****************************** 
+2020-01-12 17:30:08,853 INFO  [Log] ****************************** 
+2020-01-12 17:30:08,853 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 BEGINING OF TEST CASE Verify all other linksfacebook-login-page;verify-all-other-links;;10       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2020-01-12 17:30:08,853 INFO  [Log] ****************************** 
+2020-01-12 17:30:08,853 INFO  [Log] ****************************** 
+2020-01-12 17:30:11,765 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D- OF --Verify all other linksfacebook-login-page;verify-all-other-links;;10             XXXXXXXXXXXXXXXXXXXXXX 
+2020-01-12 17:30:11,765 INFO  [Log] X 
+2020-01-12 17:30:11,765 INFO  [Log] X 
+2020-01-12 17:30:11,765 INFO  [Log] X 
+2020-01-12 17:30:11,765 INFO  [Log] X 
+2020-01-12 17:30:16,916 INFO  [Log] ****************************** 
+2020-01-12 17:30:16,916 INFO  [Log] ****************************** 
+2020-01-12 17:30:16,916 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 BEGINING OF TEST CASE Verify all other linksfacebook-login-page;verify-all-other-links;;11       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2020-01-12 17:30:16,916 INFO  [Log] ****************************** 
+2020-01-12 17:30:16,916 INFO  [Log] ****************************** 
+2020-01-12 17:30:20,953 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D- OF --Verify all other linksfacebook-login-page;verify-all-other-links;;11             XXXXXXXXXXXXXXXXXXXXXX 
+2020-01-12 17:30:20,953 INFO  [Log] X 
+2020-01-12 17:30:20,953 INFO  [Log] X 
+2020-01-12 17:30:20,953 INFO  [Log] X 
+2020-01-12 17:30:20,953 INFO  [Log] X 
+2020-01-12 17:32:43,687 INFO  [Log] ****************************** 
+2020-01-12 17:32:43,687 INFO  [Log] ****************************** 
+2020-01-12 17:32:43,687 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 BEGINING OF TEST CASE Verify create new accounttest;verify-create-new-account;;2       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2020-01-12 17:32:43,687 INFO  [Log] ****************************** 
+2020-01-12 17:32:43,687 INFO  [Log] ****************************** 
+2020-01-12 17:32:44,795 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D- OF --Verify create new accounttest;verify-create-new-account;;2             XXXXXXXXXXXXXXXXXXXXXX 
+2020-01-12 17:32:44,795 INFO  [Log] X 
+2020-01-12 17:32:44,799 INFO  [Log] X 
+2020-01-12 17:32:44,799 INFO  [Log] X 
+2020-01-12 17:32:44,800 INFO  [Log] X 
+2020-01-12 17:32:49,999 INFO  [Log] ****************************** 
+2020-01-12 17:32:49,999 INFO  [Log] ****************************** 
+2020-01-12 17:32:49,999 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 BEGINING OF TEST CASE Verify create new accounttest;verify-create-new-account;;3       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2020-01-12 17:32:49,999 INFO  [Log] ****************************** 
+2020-01-12 17:32:49,999 INFO  [Log] ****************************** 
+2020-01-12 17:32:51,049 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D- OF --Verify create new accounttest;verify-create-new-account;;3             XXXXXXXXXXXXXXXXXXXXXX 
+2020-01-12 17:32:51,049 INFO  [Log] X 
+2020-01-12 17:32:51,049 INFO  [Log] X 
+2020-01-12 17:32:51,049 INFO  [Log] X 
+2020-01-12 17:32:51,049 INFO  [Log] X 
+2020-01-12 17:53:16,115 INFO  [Log] ****************************** 
+2020-01-12 17:53:16,115 INFO  [Log] ****************************** 
+2020-01-12 17:53:16,115 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 BEGINING OF TEST CASE Verify create new accounttest;verify-create-new-account;;2       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2020-01-12 17:53:16,115 INFO  [Log] ****************************** 
+2020-01-12 17:53:16,115 INFO  [Log] ****************************** 
+2020-01-12 17:53:20,376 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D- OF --Verify create new accounttest;verify-create-new-account;;2             XXXXXXXXXXXXXXXXXXXXXX 
+2020-01-12 17:53:20,376 INFO  [Log] X 
+2020-01-12 17:53:20,376 INFO  [Log] X 
+2020-01-12 17:53:20,376 INFO  [Log] X 
+2020-01-12 17:53:20,376 INFO  [Log] X 
+2020-01-12 17:53:25,557 INFO  [Log] ****************************** 
+2020-01-12 17:53:25,557 INFO  [Log] ****************************** 
+2020-01-12 17:53:25,557 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 BEGINING OF TEST CASE Verify create new accounttest;verify-create-new-account;;3       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2020-01-12 17:53:25,557 INFO  [Log] ****************************** 
+2020-01-12 17:53:25,557 INFO  [Log] ****************************** 
+2020-01-12 17:53:29,056 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D- OF --Verify create new accounttest;verify-create-new-account;;3             XXXXXXXXXXXXXXXXXXXXXX 
+2020-01-12 17:53:29,056 INFO  [Log] X 
+2020-01-12 17:53:29,056 INFO  [Log] X 
+2020-01-12 17:53:29,057 INFO  [Log] X 
+2020-01-12 17:53:29,057 INFO  [Log] X 
+2020-01-12 17:53:56,934 INFO  [Log] ****************************** 
+2020-01-12 17:53:56,938 INFO  [Log] ****************************** 
+2020-01-12 17:53:56,938 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 BEGINING OF TEST CASE Verify create new accounttest;verify-create-new-account;;2       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2020-01-12 17:53:56,938 INFO  [Log] ****************************** 
+2020-01-12 17:53:56,938 INFO  [Log] ****************************** 
+2020-01-12 17:54:01,471 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D- OF --Verify create new accounttest;verify-create-new-account;;2             XXXXXXXXXXXXXXXXXXXXXX 
+2020-01-12 17:54:01,471 INFO  [Log] X 
+2020-01-12 17:54:01,471 INFO  [Log] X 
+2020-01-12 17:54:01,471 INFO  [Log] X 
+2020-01-12 17:54:01,471 INFO  [Log] X 
+2020-01-12 17:54:06,624 INFO  [Log] ****************************** 
+2020-01-12 17:54:06,624 INFO  [Log] ****************************** 
+2020-01-12 17:54:06,624 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 BEGINING OF TEST CASE Verify create new accounttest;verify-create-new-account;;3       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2020-01-12 17:54:06,624 INFO  [Log] ****************************** 
+2020-01-12 17:54:06,624 INFO  [Log] ****************************** 
+2020-01-12 17:54:10,037 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D- OF --Verify create new accounttest;verify-create-new-account;;3             XXXXXXXXXXXXXXXXXXXXXX 
+2020-01-12 17:54:10,037 INFO  [Log] X 
+2020-01-12 17:54:10,037 INFO  [Log] X 
+2020-01-12 17:54:10,037 INFO  [Log] X 
+2020-01-12 17:54:10,037 INFO  [Log] X 
+2020-01-12 17:55:17,857 INFO  [Log] ****************************** 
+2020-01-12 17:55:17,857 INFO  [Log] ****************************** 
+2020-01-12 17:55:17,857 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 BEGINING OF TEST CASE Verify create new accounttest;verify-create-new-account;;2       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2020-01-12 17:55:17,857 INFO  [Log] ****************************** 
+2020-01-12 17:55:17,857 INFO  [Log] ****************************** 
+2020-01-12 17:55:22,015 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D- OF --Verify create new accounttest;verify-create-new-account;;2             XXXXXXXXXXXXXXXXXXXXXX 
+2020-01-12 17:55:22,015 INFO  [Log] X 
+2020-01-12 17:55:22,015 INFO  [Log] X 
+2020-01-12 17:55:22,015 INFO  [Log] X 
+2020-01-12 17:55:22,015 INFO  [Log] X 
+2020-01-12 17:55:27,228 INFO  [Log] ****************************** 
+2020-01-12 17:55:27,228 INFO  [Log] ****************************** 
+2020-01-12 17:55:27,228 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 BEGINING OF TEST CASE Verify create new accounttest;verify-create-new-account;;3       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2020-01-12 17:55:27,228 INFO  [Log] ****************************** 
+2020-01-12 17:55:27,228 INFO  [Log] ****************************** 
+2020-01-12 17:55:30,255 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D- OF --Verify create new accounttest;verify-create-new-account;;3             XXXXXXXXXXXXXXXXXXXXXX 
+2020-01-12 17:55:30,256 INFO  [Log] X 
+2020-01-12 17:55:30,256 INFO  [Log] X 
+2020-01-12 17:55:30,256 INFO  [Log] X 
+2020-01-12 17:55:30,256 INFO  [Log] X 
+2020-01-12 17:56:59,418 INFO  [Log] ****************************** 
+2020-01-12 17:56:59,419 INFO  [Log] ****************************** 
+2020-01-12 17:56:59,419 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 BEGINING OF TEST CASE Verify create new accounttest;verify-create-new-account;;2       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2020-01-12 17:56:59,419 INFO  [Log] ****************************** 
+2020-01-12 17:56:59,419 INFO  [Log] ****************************** 
+2020-01-12 17:59:32,247 INFO  [Log] ****************************** 
+2020-01-12 17:59:32,247 INFO  [Log] ****************************** 
+2020-01-12 17:59:32,247 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 BEGINING OF TEST CASE Verify create new accounttest;verify-create-new-account;;2       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2020-01-12 17:59:32,247 INFO  [Log] ****************************** 
+2020-01-12 17:59:32,247 INFO  [Log] ****************************** 
+2020-01-12 17:59:36,222 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D- OF --Verify create new accounttest;verify-create-new-account;;2             XXXXXXXXXXXXXXXXXXXXXX 
+2020-01-12 17:59:36,222 INFO  [Log] X 
+2020-01-12 17:59:36,222 INFO  [Log] X 
+2020-01-12 17:59:36,222 INFO  [Log] X 
+2020-01-12 17:59:36,222 INFO  [Log] X 
+2020-01-12 17:59:41,616 INFO  [Log] ****************************** 
+2020-01-12 17:59:41,616 INFO  [Log] ****************************** 
+2020-01-12 17:59:41,616 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 BEGINING OF TEST CASE Verify create new accounttest;verify-create-new-account;;3       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2020-01-12 17:59:41,616 INFO  [Log] ****************************** 
+2020-01-12 17:59:41,616 INFO  [Log] ****************************** 
+2020-01-12 17:59:44,784 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D- OF --Verify create new accounttest;verify-create-new-account;;3             XXXXXXXXXXXXXXXXXXXXXX 
+2020-01-12 17:59:44,784 INFO  [Log] X 
+2020-01-12 17:59:44,784 INFO  [Log] X 
+2020-01-12 17:59:44,784 INFO  [Log] X 
+2020-01-12 17:59:44,784 INFO  [Log] X 
